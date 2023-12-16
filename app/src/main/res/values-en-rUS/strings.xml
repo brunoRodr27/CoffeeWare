@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoffeeWare</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">E-mail</string>
+    <string name="ex_email">name@email.com</string>
+    <string name="password">Passoword</string>
+    <string name="ex_password">●●●●●●●●●</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create account</string>
+    <string name="recover_account">Recover password</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="signout_question">Do you want to leave?</string>
+    <string name="delete_question">Do you want to delete?</string>
+    <string name="account_not_registered_register_fragment">There is no user record corresponding to this identifier</string>
+    <string name="invalid_email_register_fragment">The email address is badly formatted</string>
+    <string name="invalid_password_register_fragment">The password is invalid or the user does not have password</string>
+    <string name="email_in_use_register_fragment">The email address is already in use by another account</string>
+    <string name="strong_password_register_fragment">Password should be at least 6 characters</string>
+    <string name="error_generic">Error occurred, please try again later</string>
+    <string name="products">Products</string>
+    <string name="new_product">New product</string>
+    <string name="product_status">Situation</string>
+    <string name="product_name">Product name</string>
+    <string name="product_desc">Description</string>
+    <string name="product_value">Value (R$) : 0,00</string>
+    <string name="save_product">Save product</string>
+    <string name="status_product">Loading products...</string>
+    <string name="product_null">No products found</string>
+    <string name="orders_null">No orders found</string>
+    <string name="new_order">New order</string>
+    <string name="table_order">Table</string>
+    <string name="order_obs">Observation</string>
+    <string name="save_order">Save order</string>
+    <string name="status_order">Loading orders</string>
+    <string name="order">Order</string>
+    <string name="obs_order">Obs.:</string>
+    <string name="error_loading_orders">Error</string>
+</resources>

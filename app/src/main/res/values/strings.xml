@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CoffeeWare</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">E-mail</string>
+    <string name="ex_email">nome@email.com</string>
+    <string name="password">Senha</string>
+    <string name="ex_password">●●●●●●●●●</string>
+    <string name="login">Entrar</string>
+    <string name="create_account">Criar conta</string>
+    <string name="recover_account">Recuperar senha</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="signout_question">Deseja sair da conta?</string>
+    <string name="delete_question">Deseja deletar?</string>
+    <string name="account_not_registered_register_fragment">Nenhuma conta encontrada com este e-mail.</string>
+    <string name="invalid_email_register_fragment">Insira um e-mail válido.</string>
+    <string name="invalid_password_register_fragment">Senha inválida, tente novamente.</string>
+    <string name="email_in_use_register_fragment">Este e-mail já está em uso.</string>
+    <string name="strong_password_register_fragment">Insira uma senha mais forte.</string>
+    <string name="error_generic">Ocorreu um erro, por favor tente novamente mais tarde</string>
+    <string name="products">Produtos</string>
+    <string name="new_product">Novo produto</string>
+    <string name="product_status">Situação</string>
+    <string name="product_name">Nome do produto</string>
+    <string name="product_desc">Descrição</string>
+    <string name="product_value">Valor (R$) : 0,00</string>
+    <string name="save_product">Salvar produto</string>
+    <string name="status_product">Carregando produtos...</string>
+    <string name="product_null">Nenhum produto encontrado.</string>
+    <string name="orders_null">Nenhum pedido encontrado.</string>
+    <string name="new_order">Novo pedido</string>
+    <string name="table_order">Mesa</string>
+    <string name="order_obs">Observação</string>
+    <string name="save_order">Salvar pedido</string>
+    <string name="status_order">Carregando pedidos</string>
+    <string name="order">Pedido</string>
+    <string name="obs_order">Obs.: </string>
+    <string name="error_loading_orders">Erro ao buscar pedidos.</string>
+</resources>

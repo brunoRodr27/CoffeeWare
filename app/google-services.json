@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80320019829",
+    "project_id": "coffeeware-78c3c",
+    "storage_bucket": "coffeeware-78c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80320019829:android:91b1eda11eb4f96bd3273c",
+        "android_client_info": {
+          "package_name": "com.example.coffeeware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7txMmyz5PSbP0SW3nLsdWRoBnJbQGmXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
